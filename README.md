@@ -1,7 +1,3 @@
-Here's a comprehensive README file for your Amazon clone project. You can customize it further if needed.
-
----
-
 # Amazon Clone
 
 This project is a clone of Amazon.com built using HTML, CSS, and JavaScript. It replicates the basic functionality and layout of the Amazon website and serves as a demonstration of front-end development skills.
